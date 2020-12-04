@@ -41,23 +41,17 @@ dVq3T2XfLEfjhd1x6AlZjERFvDkKlw4=
 
 <details>
   <summary><strong>Key Details</strong></summary>
+**Checksums**
+- **Key SHA256 Checksum:** 089656ca40ed49fdbad84a58001ffaab64dc7fa6eaee35a3af790e91ced91988
+- **Key MD5 Checksum:** 167834fae80738f0902feeb696870633
 
-**Key SHA256 Checksum:** 089656ca40ed49fdbad84a58001ffaab64dc7fa6eaee35a3af790e91ced91988
+**Key Information**
+- **Key Type:** ECC
+- **Key Size:** 384/384 (In RSA, this would be the same as 4096/4096 or above)
+- **Expires:** Never, unless redacted.
 
-**Key MD5 Checksum:** 167834fae80738f0902feeb696870633
-
-
-**Key Type:** ECC
-
-**Key Size:** 384/384 (In RSA, this would be the same as 4096/4096 or above)
-
-**Expires:** Never, unless redacted.
-
-
-**User ID:** GameGlitz
-
-**User Email:** gameglitzbusiness@gmail.com
-
-
-**Other Information:** This key was generated with ECCGen Level 10. This means you must have physical access to the diode, along with the passphrase, card, and toolchain.
+**User Information / Fingerprinting**
+- **User ID:** GameGlitz
+- **User Email:** gameglitzbusiness@gmail.com
+- **Other Information:** This key was generated with ECCGen Level 10. This means you must have physical access to the diode, along with the passphrase, card, and toolchain. This is the highest level of ECCGen, and as of such, cannot be curvitually cracked.
 </details>
