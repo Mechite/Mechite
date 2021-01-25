@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm GameGlitz.</h1>
 
-- 🔭 I’m currently working on [IlIlIlIlIlIlIlIlIlIl](https://github.com/GameGlitz/Project).
+- 🔭 I’m currently working on [IlIlIlIlIlIlIlIlIlIl](https://github.com/VerseRIP).
 - 📫 You can find me on the [Verse Network](https://discord.verse.rip).
 - 💾 I do not use GitHub to store my projects, but instead use [BitBucket](https://bitbucket.org) due to security and personal preference.
 
