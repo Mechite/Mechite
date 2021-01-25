@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [IlIlIlIlIlIlIlIlIlIl](https://github.com/GameGlitz/Project).
 - 📫 You can find me on the [Verse Network](https://discord.verse.rip).
+- 💾I do not use GitHub to store my projects, but instead use [BitBucket](https://bitbucket.org) due to security and personal preference.
 
 ### PGP
 If you are contacting me regarding a security issue, please encrypt your communications using PGP.
