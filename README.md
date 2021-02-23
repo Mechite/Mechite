@@ -15,10 +15,8 @@
 - Store: [verse.rip/store](https://verse.rip/store)
 - Statistics: [verse.rip/stats](https://verse.rip/stats)
 
----
-
-### PGP Information
-If you are contacting me regarding a security issue, please encrypt your communications using PGP.
+#### PGP Information
+- If you are contacting me regarding a security issue, please encrypt your communications using PGP.
 
 <details>
   <summary><strong>PGP Public Key</strong></summary>
