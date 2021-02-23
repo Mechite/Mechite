@@ -2,6 +2,7 @@
 ---
 
 #### Welcome to my GitHub profile, I am GameGlitz.
+Here are links representing my public presence.
 - Website: [www.gameglitz.dev](https://www.gameglitz.dev)
 - YouTube: [gameglitz.dev/youtube](https://www.youtube.com/channel/UCHNGVaQU8-uNm3gpXi9WosA)
 - Twitter: [gameglitz.dev/twitter](https://twitter.com/GameGlitz_)
@@ -10,13 +11,14 @@
 - Discord: [GameGlitz#7925](https://discord.com/users/713212769570127935)
 
 #### Curious of what I'm working on? Here are some links.
+Note that there is a whole team behind these!
 - Website: [www.verse.rip](https://verse.rip)
 - Discord: [verse.rip/discord](https://verse.rip/discord)
 - Store: [verse.rip/store](https://verse.rip/store)
 - Statistics: [verse.rip/stats](https://verse.rip/stats)
 
 #### PGP Information
-- If you are contacting me regarding a security issue, please encrypt your communications using PGP.
+If you are contacting me regarding a security issue, please encrypt your communications using PGP.
 
 <details>
   <summary><strong>PGP Public Key</strong></summary>
