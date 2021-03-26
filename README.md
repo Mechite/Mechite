@@ -6,7 +6,6 @@ Here are links representing my public presence.
 - Website: [www.gameglitz.dev](https://www.gameglitz.dev)
 - YouTube: [gameglitz.dev/youtube](https://www.youtube.com/channel/UCHNGVaQU8-uNm3gpXi9WosA)
 - Twitter: [gameglitz.dev/twitter](https://twitter.com/GameGlitz_)
-- Projects: [gameglitz.dev/bitbucket](https://bitbucket.org/GameGlitz)
 - Email: [contact@gameglitz.dev](mailto://contact@gameglitz.dev)
 - Discord: [GameGlitz#7925](https://discord.com/users/713212769570127935)
 
