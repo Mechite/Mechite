@@ -7,7 +7,6 @@
 
 applyDate();
 applyProtocol();
-typeText();
 
 /**
  * Applies the date manipulation to the document.

@@ -15,23 +15,30 @@
 /**
  * Selects the global body tag.
  * 1) Set the background color to black.
- * 2) Hide horizontal overflow on all devices.
- * 3) Hide user selection on all desktop devices.
+ * 2) Hides horizontal overflow on all devices.
+ * 3) Hides user selection on all desktop devices.
+ * 4) Moves text underlines to be slightly lower.
  */
 body {
-	background: black;          /* 1 */
+	background: black;                    /* 1 */
 
-	-webkit-overflow-x: hidden;   /* 2 */
-	-khtml-overflow-x: hidden;    /* 2 */
-	-moz-overflow-x: hidden;      /* 2 */
-	-ms-user-select: hidden;      /* 2 */
-	overflow-x: hidden;           /* 2 */
+	-webkit-overflow-x: hidden;             /* 2 */
+	-khtml-overflow-x: hidden;              /* 2 */
+	-moz-overflow-x: hidden;                /* 2 */
+	-ms-user-select: hidden;                /* 2 */
+	overflow-x: hidden;                     /* 2 */
 
-	-webkit-user-select: none;    /* 3 */
-	-khtml-user-select: none;     /* 3 */
-	-moz-user-select: none;       /* 3 */
-	-ms-user-select: none;        /* 3 */
-	user-select: none;            /* 3 */
+	-webkit-user-select: none;              /* 3 */
+	-khtml-user-select: none;               /* 3 */
+	-moz-user-select: none;                 /* 3 */
+	-ms-user-select: none;                  /* 3 */
+	user-select: none;                      /* 3 */
+
+	-webkit-text-underline-position: under; /* 4 */
+	-khtml-text-underline-position: under;  /* 4 */
+	-moz-text-underline-position: under;    /* 4 */
+	-ms-text-underline-position: below;     /* 4 */
+	text-underline-position: under;         /* 4 */
 }
 
 /**
@@ -55,23 +62,15 @@ a {
  * 4) Animate the text inside with a glitch effect.
  */
 .terminal-container {
-	color: limegreen;                      /* 1 */
+	color: limegreen;                       /* 1 */
 
-	font-family: /* Monospace */             /* 2 */
-		'JetBrains Mono',
-		SFMono-Regular,
-		Menlo,
-		Monaco,
-		Consolas,
-		"Liberation Mono",
-		"Courier New",
-		monospace;
-	font-size: 16px;                         /* 2 */
-	
-	margin-left: 10px;                       /* 3 */
-	width: 100%;                             /* 3 */
-	
-	animation: 400ms normal infinite glitch; /* 4 */
+	font-family: 'JetBrains Mono', monospace; /* 2 */
+	font-size: 16px;                          /* 2 */
+
+	margin-left: 10px;                        /* 3 */
+	width: 100%;                              /* 3 */
+
+	animation: 400ms normal infinite glitch;  /* 4 */
 }
 
 /**
