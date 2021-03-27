@@ -1,0 +1,120 @@
+/**
+ * Handles the stylesheet for the home page.
+ * Named after the file to help organize the
+ * site due to it being fully static.
+ * @author GameGlitz
+ */
+
+/* External Imports
+   ========================================== */
+@import "https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap";
+
+/* Document
+   ========================================== */
+
+/**
+ * Selects the global body tag.
+ * 1) Set the background color to black.
+ * 2) Hide horizontal overflow on all devices.
+ * 3) Hide user selection on all desktop devices.
+ */
+body {
+	background: black;          /* 1 */
+
+	-webkit-overflow-x: hidden;   /* 2 */
+	-khtml-overflow-x: hidden;    /* 2 */
+	-moz-overflow-x: hidden;      /* 2 */
+	-ms-user-select: hidden;      /* 2 */
+	overflow-x: hidden;           /* 2 */
+
+	-webkit-user-select: none;    /* 3 */
+	-khtml-user-select: none;     /* 3 */
+	-moz-user-select: none;       /* 3 */
+	-ms-user-select: none;        /* 3 */
+	user-select: none;            /* 3 */
+}
+
+/**
+ * Selects all anchor tags and normalizes them.
+ * 1) Normalizes the color of an anchor link.
+ */
+a {
+	color: inherit;
+}
+
+/* Terminal
+   ========================================== */
+
+/**
+ * Sets a global style guideline for the
+ * box surrounding the terminal area.
+ * 1) Sets the text color to be lime green.
+ * 2) Sets the font to be monospace and allow it to
+ *    fall back to be web safe.
+ * 3) Set the positioning of the container.
+ * 4) Animate the text inside with a glitch effect.
+ */
+.terminal-container {
+	color: limegreen;                      /* 1 */
+
+	font-family: /* Monospace */             /* 2 */
+		'JetBrains Mono',
+		SFMono-Regular,
+		Menlo,
+		Monaco,
+		Consolas,
+		"Liberation Mono",
+		"Courier New",
+		monospace;
+	font-size: 16px;                         /* 2 */
+	
+	margin-left: 10px;                       /* 3 */
+	width: 100%;                             /* 3 */
+	
+	animation: 400ms normal infinite glitch; /* 4 */
+}
+
+/**
+ * Sets a style on just the main terminal text
+ * block which is for holding information.
+ * 1) Sets white space to clone the document instead.
+ */
+.terminal-text {
+	white-space: pre-line; /* 1 */
+}
+
+/**
+ * Sets a style on the cursor inside the terminal.
+ * 1) Animates the cursor blinking.
+ */
+.terminal-cursor {
+	animation: 1.0s cursor step-end infinite; /* 1 */
+}
+
+/* Animations
+   ========================================== */
+
+/**
+ * Provides a glitch effect to classic
+ * terminal styled text.
+ */
+@keyframes glitch {
+	0% {
+		opacity: 0.7;
+		left: 1;
+	}
+
+	40%, 80% {
+		opacity: 1;
+		left: -1px;
+	}
+}
+
+/**
+ * Provides a non-fading cursor blink
+ * effect [Examples are $| and $_].
+ */
+@keyframes cursor {
+	from, to { color: #61dd66; }
+	50% { color: black; }
+}

@@ -1,65 +1,42 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="./favicon.ico"/>
-  <title>GameGlitz | Home</title>
+	<meta charset="utf-8"/>
+	<title>GameGlitz | Home</title>
+
+	<link rel="icon" href="./favicon.ico"/>
+	<link rel="stylesheet" href="./index.css"/>
+	<script src="./index.js" async></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 </head>
-
 <body>
-  <body oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
-    <div>
-      Website coming soon.
-      <br>user@gameglitz.dev:-$&nbsp;<span id="cursor">█</span>
-    </div>
-</body>
+	<div class="terminal-container">
+		<span class="terminal-text">
+			This website is currently under development! (Please check back in the future.)
 
-<style>
-body {
-  background: #000;
-}
+			&nbsp;&nbsp;•&nbsp;&nbsp;Website:&nbsp;<a href="https://gameglitz.dev/">https://gameglitz.dev/</a>
+			&nbsp;&nbsp;•&nbsp;&nbsp;YouTube:&nbsp;<a href="https://gameglitz.dev/youtube">https://gameglitz.dev/youtube</a>
+			&nbsp;&nbsp;•&nbsp;&nbsp;Twitter:&nbsp;<a href="https://gameglitz.dev/twitter">https://gameglitz.dev/twitter</a>
+			&nbsp;&nbsp;•&nbsp;&nbsp;GitHub:&nbsp;&nbsp;<a href="https://gameglitz.dev/github">https://gameglitz.dev/github</a>
 
-div {
-  color: #5dea62;
-  font-family: Monaco, monospace;
-  font-size: 24px;
-  width: 100%;
-  text-align: center;
-  position: absolute;
-  top: 45%;
-  left: 0;
-  animation: 200ms infinite normal glitch;
-}
+			&nbsp;&nbsp;•&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@gameglitz.dev">contact@gameglitz.dev</a>
+			&nbsp;&nbsp;•&nbsp;&nbsp;Discord:&nbsp;GameGlitz#7925
 
-span {
-  animation: 1.5s cursor linear infinite;
-}
+			I am currently working on a project known as the Verse Network with a small team of friends.
+			Here are some links to check it out, little information will be provided on it (surprise!)
 
-::-moz-selection {
-  background: #7021d2;
-  color: #fff;
-}
+			&nbsp;&nbsp;•&nbsp;&nbsp;Website:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://verse.rip/">https://verse.rip/</a>
+			&nbsp;&nbsp;•&nbsp;&nbsp;Discord:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://verse.rip/discord">https://verse.rip/discord</a>
+			&nbsp;&nbsp;•&nbsp;&nbsp;Store:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://verse.rip/store">https://verse.rip/store</a>
+			&nbsp;&nbsp;•&nbsp;&nbsp;Statistics:&nbsp;<a href="https://verse.rip/statistics">https://verse.rip/statistics</a>
 
-::selection {
-  background: #7021d2;
-  color: #fff;
-}
+			Last login: <span id="terminal-date"></span> from <span id="terminal-protocol"></span>
+			Notes: Your IP is fetched locally with a script, it's just for visual effect :)
 
-@keyframes glitch {
-  0% {
-    opacity: 0;
-    left: 0;
-  }
-  40%, 80% {
-    opacity: 1;
-    left: -1px;
-  }
-}
-@keyframes cursor {
-  50% {
-    opacity: 0;
-  }
-}
-</style>
+		</span>
+		<span class="terminal-prompt">
+			user@gameglitz.dev:-$<span class="terminal-cursor">|</span>
+		</span>
+	</div>
 </html>
