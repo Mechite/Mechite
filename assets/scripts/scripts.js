@@ -5,9 +5,6 @@
  * @author GameGlitz
  */
 
-applyDate();
-applyProtocol();
-
 /**
  * Applies the date manipulation to the document.
  */
@@ -31,3 +28,7 @@ const applyProtocol = async () => {
         document.getElementById("terminal-protocol").innerHTML = protocolIdentifier;
     });
 }
+
+
+applyDate();
+applyProtocol();
