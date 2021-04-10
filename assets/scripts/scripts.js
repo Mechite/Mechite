@@ -31,4 +31,3 @@ const applyProtocol = async () => {
         document.getElementById("terminal-protocol").innerHTML = protocolIdentifier;
     });
 }
-}
