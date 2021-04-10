@@ -11,7 +11,7 @@ applyProtocol();
 /**
  * Applies the date manipulation to the document.
  */
-async function applyDate() {
+const applyDate = async () => {
     date = new Date();
     document.getElementById("terminal-date").innerHTML = date;
 }
@@ -19,8 +19,8 @@ async function applyDate() {
 /**
  * Applies the protocol identifier maniplation to the document.
  */
-async function applyProtocol() {
-    async function fetchData(url) {
+const applyProtocol = async () => {
+    const fetchData = async (url) => {
         const res = await fetch(url);
         return await res.text();
     }
@@ -30,4 +30,5 @@ async function applyProtocol() {
         let protocolIdentifier = data.match(protocolRegex)[0];
         document.getElementById("terminal-protocol").innerHTML = protocolIdentifier;
     });
+}
 }
