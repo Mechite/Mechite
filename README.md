@@ -1,25 +1,28 @@
 
 ---
 
-#### Welcome to my profile, I am GameGlitz.
+#### Welcome to my profile.
 Here are links representing my public presence.
-- Website: [www.gameglitz.dev](https://www.gameglitz.dev)
-- YouTube: [gameglitz.dev/youtube](https://www.youtube.com/channel/UCHNGVaQU8-uNm3gpXi9WosA)
-- Twitter: [gameglitz.dev/twitter](https://twitter.com/GameGlitz_)
+- Website: [https://gameglitz.dev](https://www.gameglitz.dev)
+- YouTube: [https://gameglitz.dev/youtube](https://gameglitz.dev/youtube)
+- Twitter: [https://gameglitz.dev/twitter](https://gameglitz.dev/twitter)
+- Twitter: [https://gameglitz.dev/github](https://gameglitz.dev/github)<br><br>
 - Email: [contact@gameglitz.dev](mailto://contact@gameglitz.dev)
 - Discord: [GameGlitz#7925](https://discord.com/users/713212769570127935)
 
-Curious of what I'm currently working on? Here are some links.
+I am working on the Verse Network with some friends.<br>
+Check it out here via these links.
 - Website: [www.verse.rip](https://verse.rip)
 - Discord: [verse.rip/discord](https://verse.rip/discord)
 - Store: [verse.rip/store](https://verse.rip/store)
 - Statistics: [verse.rip/stats](https://verse.rip/stats)
 
-#### Secure Contact Information
-If you are contacting me regarding a security issue, please protect your communications.
+If you are contacting me regarding a security issue,<br>
+please protect your communications.
 
 <details>
   <summary><strong>Telegram Information</strong></summary>
+  
   If you would like an easy method of contacting me with encryption, a Telegram-based secret chat is one of my trusted methods of conviniently communicating safely.
   
   You may contact me with @GameGlitz, documentation on creating a secret chat is available <a href="https://telegram.org/faq#:~:text=Secret%20chats%20are%20meant%20for,(more%20on%20this%20here)">here</a>.
@@ -153,20 +156,6 @@ If you are contacting me regarding a security issue, please protect your communi
   =ac7C
   -----END PGP PUBLIC KEY BLOCK-----
   ```
-</details>
-
-<details>
-  <summary><strong>PGP Key Details</strong></summary>
-  
-**Key Information**
-- **Key Type:** RSA
-- **Key Size:** 4096/4096
-- **Expires:** 8 years
-
-**User Information / Fingerprinting**
-- **User ID:** GameGlitz
-- **User Email:** contact@gameglitz.dev
-- **Other Information:** This key was generated on a FIPS 140-2 level 4 validated card. This means that physical possession of the access card and the applied passphrase are needed for message decryption.
 </details>
 
 ---
