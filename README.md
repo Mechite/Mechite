@@ -6,16 +6,9 @@ Here are links representing my public presence.
 - Website: [https://gameglitz.dev](https://www.gameglitz.dev)
 - YouTube: [https://gameglitz.dev/youtube](https://gameglitz.dev/youtube)
 - Twitter: [https://gameglitz.dev/twitter](https://gameglitz.dev/twitter)
-- Twitter: [https://gameglitz.dev/github](https://gameglitz.dev/github)<br><br>
+- GitHub: [https://gameglitz.dev/github](https://gameglitz.dev/github)<br><br>
 - Email: [contact@gameglitz.dev](mailto://contact@gameglitz.dev)
 - Discord: [GameGlitz#7925](https://discord.com/users/713212769570127935)
-
-I am working on the Verse Network with some friends.<br>
-Check it out here via these links.
-- Website: [www.verse.rip](https://verse.rip)
-- Discord: [verse.rip/discord](https://verse.rip/discord)
-- Store: [verse.rip/store](https://verse.rip/store)
-- Statistics: [verse.rip/stats](https://verse.rip/stats)
 
 If you are contacting me regarding a security issue,<br>
 please protect your communications.
