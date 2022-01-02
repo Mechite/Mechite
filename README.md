@@ -3,6 +3,7 @@
 
 #### Welcome to my profile.
 If you would like to contact me, do so via these links.
+- Twitter: [@TheMechite](https://twitter.com/TheMechite)
 - Email: [mechitebusiness@gmail.com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6D%65%63%68%69%74%65%62%75%73%69%6E%65%73%73%40%67%6D%61%69%6C%2E%63%6F%6D)
 - Discord: Mechite#2239
 
@@ -14,7 +15,7 @@ please protect your communications.
   
   If you would like an easy method of contacting me with encryption, a Telegram-based secret chat is one of my trusted methods of conviniently communicating safely.
   
-  You may contact me with @Mechite, documentation on creating a secret chat is available <a href="https://telegram.org/faq#:~:text=Secret%20chats%20are%20meant%20for,(more%20on%20this%20here)">here</a>.
+  You may contact me with @TheMechite, documentation on creating a secret chat is available <a href="https://telegram.org/faq#:~:text=Secret%20chats%20are%20meant%20for,(more%20on%20this%20here)">here</a>.
 </details>
 
 <details>
