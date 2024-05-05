@@ -14,6 +14,6 @@ If you are contacting me regarding a security issue in any<br/>
 network/system I run, please protect your communications<br/>
 by using a Telegram secret chat.
 
-![](https://komarev.com/ghpvc/?username=Mechite&color=blue)
+![](https://komarev.com/ghpvc/?username=Mechite&color=gray)
 
 ---
